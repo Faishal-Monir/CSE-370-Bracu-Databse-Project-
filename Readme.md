@@ -1,7 +1,7 @@
 
 # Hospital Management System( Unicare) 
 
-Hello, Everyone, This is our Undergrad first Database project that we built using SQL and basic markup languages. We took help from various online resources as Youtube and official documentation of various stacks.
+Hello, everyone! This is our Undergrad first Database project that we built using SQL and basic markup languages. We took help from various online resources, such as YouTube and the official documentation of various stacks.
 
 ### Group Members:
 [MD. Jarif Bin Sayeed](https://github.com/Jarif-20) | [Sabaha Sadik](#) | [Faishal Monir](https://github.com/Faishal-Monir) | [Saib Sadman Bari](https://github.com/saibsadman) | [Umma Salma Mim](https://github.com/ummasalmamim)
@@ -17,7 +17,7 @@ Hello, Everyone, This is our Undergrad first Database project that we built usin
 * Auto generations of user id
 
 ### Patient Panel
-* Patient can effectively book doctors-appointment
+* Patients can effectively book doctor appointments.
 * Each patient can update their own data
 * Patients can collect blood from the bloodbank also book an ambulance as per requirements.
 
