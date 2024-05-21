@@ -1,8 +1,7 @@
 
 # Hospital Management System( Unicare) 
 ```
-Spring-2024 || CSE-370
-LAB Group-4 || Section-14
+Spring-2024 || CSE-370 || LAB Group-4 || Section-14
 
 ```
 
@@ -52,69 +51,65 @@ Hello, everyone! This is our Undergrad first Database project that we built usin
 
 ## Login Info:
 ### Admin Panel:
-User ID: Smith_0002@gmail.com  
-Password: 1234  
 
-User ID: Lee_0005@gmail.com  
-Password: 1234  
-
-User ID: Patel_0006@gmail.com  
-Password: 1234  
-
+```
+User ID: Smith_0002@gmail.com
+Password: 1234
+User ID: Lee_0005@gmail.com
+Password: 1234
+User ID: Patel_0006@gmail.com
+Password: 1234
+```
 ### Doctor Panel:
-User ID: Garcia_0011@gmail.com  
-Password: 1234  
 
-User ID: Kim_0012@gmail.com  
-Password: 1234  
-
-User ID: Singh_0013@gmail.com  
-Password: 1234  
-
-User ID: Davis_0014@gmail.com  
-Password: 1234  
-
+```
+User ID: Garcia_0011@gmail.com
+Password: 1234
+User ID: Kim_0012@gmail.com
+Password: 1234
+User ID: Singh_0013@gmail.com
+Password: 1234
+User ID: Davis_0014@gmail.com
+Password: 1234
+```
 ### Patient Panel:
-User ID: Gonzales_0032@gmail.com  
-Password: 1234  
 
-User ID: Davis_0038@gmail.com  
-Password: 1234  
-
-User ID: Thompson_0039@gmail.com  
-Password: 1234  
-
-User ID: Lee_0041@gmail.com  
-Password: 1234  
-
+```
+User ID: Gonzales_0032@gmail.com
+Password: 1234
+User ID: Davis_0038@gmail.com
+Password: 1234
+User ID: Thompson_0039@gmail.com
+Password: 1234
+User ID: Lee_0041@gmail.com
+Password: 1234
+```
 ### Staff Panel:
-User ID: Thompson_0051@gmail.com  
-Password: 1234  
 
-User ID: Rodriguez_0052@gmail.com  
-Password: 1234  
-
-User ID: Lee_0053@gmail.com  
-Password: 1234  
-
-User ID: Patel_0054@gmail.com  
-Password: 1234  
-
+```
+User ID: Thompson_0051@gmail.com
+Password: 1234
+User ID: Rodriguez_0052@gmail.com
+Password: 1234
+User ID: Lee_0053@gmail.com
+Password: 1234
+User ID: Patel_0054@gmail.com
+Password: 1234
+```
 ### Normal Users Panel:
-User ID: Garcia_0095@gmail.com  
-Password: 1234  
 
-User ID: Rodriguez_0076@gmail.com  
-Password: 1234  
-
-User ID: Lee_0077@gmail.com  
-Password: 1234  
-
-User ID: Wang_0082@gmail.com  
-Password: 1234  
-
-
+```
+User ID: Garcia_0095@gmail.com
+Password: 1234
+User ID: Rodriguez_0076@gmail.com
+Password: 1234
+User ID: Lee_0077@gmail.com
+Password: 1234
+User ID: Wang_0082@gmail.com
+Password: 1234
+```
 #### Note: These datas are Ai generated and has no links with real life people or any Email id.
+
 
 
 
