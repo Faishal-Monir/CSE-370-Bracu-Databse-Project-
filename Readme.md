@@ -1,5 +1,10 @@
 
 # Hospital Management System( Unicare) 
+```
+Spring-2024 || CSE-370
+LAB Group-4 || Section-14
+
+```
 
 Hello, everyone! This is our Undergrad first Database project that we built using SQL and basic markup languages. We took help from various online resources, such as YouTube and the official documentation of various stacks.
 
