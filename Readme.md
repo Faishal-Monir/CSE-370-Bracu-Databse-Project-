@@ -1,7 +1,7 @@
 
 # Hospital Management System( Unicare) 
 
-Hello, Everyone, This is our Undergrad first Database project that we built using SQL and basic markup languages. We tok help from various online resources as Youtube and official documentation of various stacks.
+Hello, Everyone, This is our Undergrad first Database project that we built using SQL and basic markup languages. We took help from various online resources as Youtube and official documentation of various stacks.
 
 ### Group Members:
 [MD. Jarif Bin Sayeed](https://github.com/Jarif-20) | [Sabaha Sadik](#) | [Faishal Monir](https://github.com/Faishal-Monir) | [Saib Sadman Bari](https://github.com/saibsadman) | [Umma Salma Mim](https://github.com/ummasalmamim)
