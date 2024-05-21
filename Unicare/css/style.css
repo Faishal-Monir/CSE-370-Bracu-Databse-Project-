@@ -1,0 +1,240 @@
+
+/* __________Faishal Monir__________________________________ */
+
+
+/* Admin panel  */
+.cards-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.card {
+    transform: scale(0.9); 
+}
+
+.col-md-3 {
+    transition: box-shadow 0.3s ease;
+    margin-bottom: 10px;
+}
+.col-md-3:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
+}
+
+/* CURD-ADMIN PANEL */
+
+        .custom-table {
+            border: 1px solid #dee2e6;
+            border-collapse: collapse;
+        }
+        .custom-table th, .custom-table td {
+            border: 1px solid #dee2e6;
+            padding: 8px;
+        }
+        .custom-table thead {
+            background-color: #343a40;
+            color: #fff;
+        }
+  
+        table {
+            margin-top: 10px;
+        }
+
+        .admin_alert{
+            margin-top: 60px;
+        }
+
+/* Admin Add/remove panel */
+
+.Form1{
+    margin-top: 100px;
+}
+/* Admin Update panel --Null */
+
+/* Footer */
+.footer {
+  font-size: 14px;
+
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
+
+/* __________UMMA Salma  MIM_________________________________________________________________________________________________________________________ */
+/* Homepage */
+#carouselExampleIndicators {
+    width: 100%; /* Set the maximum width of the carousel */
+    height: 500px; /* Set the maximum height of the carousel */
+    margin-top: 56px; 
+}
+
+.carousel-item{    
+    max-height: 500px; /* Set the maximum height of the images within the carousel */
+  }
+
+ /* LOgin page */
+ html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.login-dark {
+  min-height: 100vh;
+  background: #475d62;
+  background-size: cover;
+  position: relative;
+  overflow: auto; /* Add overflow property to enable scrolling */
+}
+
+
+  
+  .login-dark form {
+    max-width:320px;
+    width:90%;
+    background-color:#1e2833;
+    padding:40px;
+    border-radius:4px;
+    transform:translate(-50%, -50%);
+    position:absolute;
+    top:50%;
+    left:50%;
+    color:#fff;
+    box-shadow:3px 3px 4px rgba(0,0,0,0.2);
+  }
+  
+  .login-dark .illustration {
+    text-align:center;
+    padding:15px 0 20px;
+    font-size:100px;
+    color:#2980ef;
+  }
+
+  .login-dark form .form-control {
+    background:none;
+    border:none;
+    border-bottom:1px solid #434a52;
+    border-radius:0;
+    box-shadow:none;
+    outline:none;
+    color:inherit;
+  }
+  
+  .login-dark form .btn-primary {
+    background:#214a80;
+    border:none;
+    border-radius:4px;
+    padding:11px;
+    box-shadow:none;
+    margin-top:26px;
+    text-shadow:none;
+    outline:none;
+  }
+  
+  .login-dark form .btn-primary:hover, .login-dark form .btn-primary:active {
+    background:#214a80;
+    outline:none;
+  }
+  
+  .login-dark form .forgot {
+    display:block;
+    text-align:center;
+    font-size:12px;
+    color:#6f7a85;
+    opacity:0.9;
+    text-decoration:none;
+  }
+  
+  .login-dark form .forgot:hover, .login-dark form .forgot:active {
+    opacity:1;
+    text-decoration:none;
+  }
+  
+  .login-dark form .btn-primary:active {
+    transform:translateY(1px);
+  }
+  
+     /* Reg page */
+ html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+.login-dark-1 {
+min-height: 100vh;
+background: #475d62;
+background-size: cover;
+position: relative;
+overflow: auto; /* Add overflow property to enable scrolling */
+}
+
+
+
+.login-dark-1 form {
+  margin-top:10%;
+  max-width:500px;
+  width:90%;
+  background-color:#1e2833;
+  padding:40px;
+  border-radius:4px;
+  transform:translate(-50%, -50%);
+  position:absolute;
+  top:50%;
+  left:50%;
+  color:#fff;
+  box-shadow:3px 3px 4px rgba(0,0,0,0.2);
+}
+
+.login-dark-1 .illustration {
+  text-align:center;
+  padding:15px 0 20px;
+  font-size:100px;
+  color:#2980ef;
+}
+
+.login-dark-1 form .form-control {
+  background:none;
+  border:none;
+  border-bottom:1px solid #434a52;
+  border-radius:0;
+  box-shadow:none;
+  outline:none;
+  color:inherit;
+}
+
+.login-dark-1 form .btn-primary {
+  background:#214a80;
+  border:none;
+  border-radius:4px;
+  padding:11px;
+  box-shadow:none;
+  margin-top:26px;
+  text-shadow:none;
+  outline:none;
+}
+
+.login-dark-1 form .btn-primary:hover, .login-dark form .btn-primary:active {
+  background:#214a80;
+  outline:none;
+}
+
+.login-dark form .forgot {
+  display:block;
+  text-align:center;
+  font-size:12px;
+  color:#6f7a85;
+  opacity:0.9;
+  text-decoration:none;
+}
+
+.login-dark-1 form .forgot:hover, .login-dark form .forgot:active {
+  opacity:1;
+  text-decoration:none;
+}
+
+.login-dark-1 form .btn-primary:active {
+  transform:translateY(1px);
+}
