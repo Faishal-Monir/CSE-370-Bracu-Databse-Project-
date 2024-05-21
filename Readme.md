@@ -50,10 +50,9 @@ Hello, Everyone, This is our Undergrad first Database project that we built usin
 ### Admin Panel:
 ## Login Info:
 ### Admin Panel:
-User ID: 
-Smith_0002@gmail.com  
-Password:  
-1234  
+User ID:Smith_0002@gmail.com  
+
+Password: 1234  
 
 User ID:  
 Lee_0005@gmail.com  
