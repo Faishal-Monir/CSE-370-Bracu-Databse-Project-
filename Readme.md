@@ -116,8 +116,8 @@ Password: 1234
 
 ## Screen Captures of the project!
 
-### Original Homepage
-![og_homepage](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/8b153b79-3392-4696-81d7-f13a24f5149a)
+### Homepage
+![og_homepage]([https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/8b153b79-3392-4696-81d7-f13a24f5149a](https://github.com/Faishal-Monir/CSE-370-Bracu-Databse-Project-/blob/ef5b7e962d730554064d2d9a97ebbfc7698eabfb/Images(Not_related_to_the_project_)/1%20(2).png))
 
 ### User Login
 ![user_login](https://github.com/Ratul-byte/Online-Flight-Reservation-DB-Project/assets/91417965/9a3935f0-276d-404a-86f5-66e679262612)
